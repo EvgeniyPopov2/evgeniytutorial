@@ -25,7 +25,7 @@ _____________
 
 #include <iostream>
 
-int main (){
+int main () {
 
     std::cout << "_____________" << std::endl;
     std::cout << "|  /" "\"\"\"\"\"\\  |" << std::endl;
@@ -35,6 +35,8 @@ int main (){
     std::cout << "| \\\  ___  / |" << std::endl;
     std::cout << "|  \\\_____/  |" << std::endl;
     std::cout << "-------------" << std::endl;
+
+    return 0;
 
 }
 // мое решение задачи!
