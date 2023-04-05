@@ -1,0 +1,3 @@
+/home/evgeniy/Github/evgeniytutorial/C++/build/CMakeFiles/hello.dir
+/home/evgeniy/Github/evgeniytutorial/C++/build/CMakeFiles/edit_cache.dir
+/home/evgeniy/Github/evgeniytutorial/C++/build/CMakeFiles/rebuild_cache.dir

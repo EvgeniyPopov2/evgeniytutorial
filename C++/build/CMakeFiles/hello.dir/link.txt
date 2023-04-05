@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/hello.dir/src/lesson_a.cpp.o -o hello 
